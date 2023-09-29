@@ -1,0 +1,15 @@
+read n
+
+read weights in to list: weights
+create empty array with n elements: T
+
+solve i:
+    # opt(i) = take max from
+    #             opt(i-2) + weight // take
+    #             opt(i-1)
+    take = solve(i-2) + weights[i-1]
+    drop = solve(i-1) + 0
+    T[i] = max(take, drop)
+    return T[i]
+
+print solve n
