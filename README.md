@@ -9,5 +9,4 @@ These exercises serve as a practical way for me to reinforce algorithmic concept
 
 ## Choice of Programming Language
 
-I have the freedom to use any programming language of my choice, but I will stick to Python.
-Python provides a concise and expressive environment for algorithm implementation.
+I have the freedom to use any programming language of my choice, but I will stick to Python due to its concise and expressive environment for implementation.
