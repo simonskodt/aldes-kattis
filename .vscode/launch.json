@@ -13,7 +13,7 @@
             "justMyCode": true,
             "args": [
                 "<",
-                "${workspaceFolder}/04_dymanic-programming/walrusweights/test/1.in",
+                "${workspaceFolder}/06-07_network-flow/waif/test/009.in",
             ]
         }
     ]
